@@ -7,7 +7,7 @@ This project is a machine learning-based application that predicts electricity c
 - Predicts electricity consumption based on various factors such as the number of rooms, number of people, presence of AC or TV, number of children, and urban/rural setting.
 - Estimates electricity prices based on the predicted consumption and other relevant factors.
 - Provides an intuitive web interface for users to input their data and receive predictions.
-- Stores and retrieves user inputs using local storage for a personalized experience.
+\
 
 ## Technologies Used
 
